@@ -3,6 +3,7 @@ venv*
 
 # data folder
 data/2020.csv
+data/temperature.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
