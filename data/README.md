@@ -10,7 +10,7 @@ On the root folder of your project, run:
 python -m venv venv_data_definition
 ```
 
-2. Activate the virtual environment:
+2. Activate the virtual environment (on UNIX systems):
 
 ```
 source venv_data_definition/bin/activate
@@ -24,7 +24,8 @@ pip install -r requirements_venv_data_definition.txt
 
 ## weather dataset
 
-- 2020.csv: Global weather data from NOAA
+- 2020.csv: source: Global weather data from NOAA
+- temperature.csv: source: figshare
 
 ## food production dataset
 
