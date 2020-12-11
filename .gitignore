@@ -4,6 +4,7 @@ venv*
 # data folder
 data/2020.csv
 data/temperature.csv
+data/GlobalLandTemperaturesByCity.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
