@@ -5,6 +5,10 @@ venv*
 data/2020.csv
 data/temperature.csv
 data/GlobalLandTemperaturesByCity.csv
+data/DP_LIVE_27012021103816982.csv
+data/FAOSTAT_data_1-25-2021.csv
+data/FAOSTAT_data_1-27-2021.csv
+data/precip.1901.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
